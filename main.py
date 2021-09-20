@@ -1,4 +1,4 @@
-##Installation des libs Pandas et Numpy.
+##Installation des librairies Pandas et Numpy.
 import numpy as np
 import pandas as pd
 ##Lire le fichier.
