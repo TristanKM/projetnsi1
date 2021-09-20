@@ -1,1 +1,0 @@
-format json covid https://opendata.ecdc.europa.eu/covid19/nationalcasedeath_eueea_daily_ei/json/
